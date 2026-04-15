@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "aacc785e5815762d8d267403a1d691d3027d145f",
+  "prompts": {
+    "20b6306a6aba0d58": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "42813ece-e407-436d-852e-748d0db65f07",
+        "model": "default"
+      },
+      "human_author": "Jakub Žovák",
+      "messages": [],
+      "total_additions": 909,
+      "total_deletions": 0,
+      "accepted_lines": 909,
+      "overriden_lines": 0
+    }
+  }
+}
