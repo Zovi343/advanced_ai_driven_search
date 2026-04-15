@@ -1,0 +1,33 @@
+wormhole_vectors/src/config.ts
+  20b6306a6aba0d58 38-51,108-112,148-151,175,178,187-191
+wormhole_vectors/src/wormhole.ts
+  20b6306a6aba0d58 2,7-13,27-30,39-42,48-49,52-53,66-67,76-77,154-158,161-195,215-216
+wormhole_vectors/src/animation.ts
+  20b6306a6aba0d58 23-29
+wormhole_vectors/src/GraphSpace.ts
+  20b6306a6aba0d58 3,14-29,32-34,44-50,65,67-71,81-82,85-99,102-106,115-117
+wormhole_vectors/src/VectorSpace.ts
+  20b6306a6aba0d58 3-7,18-50,62-66,69,79-109,112,132,137-139,150-154,160-161,178,183,193-195
+wormhole_vectors/src/styles.css
+  20b6306a6aba0d58 140-163,167,171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "28ae186719250a353828927094c666404c79ee66",
+  "prompts": {
+    "20b6306a6aba0d58": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "42813ece-e407-436d-852e-748d0db65f07",
+        "model": "default"
+      },
+      "human_author": "Jakub Žovák",
+      "messages": [],
+      "total_additions": 413,
+      "total_deletions": 220,
+      "accepted_lines": 287,
+      "overriden_lines": 0
+    }
+  }
+}
