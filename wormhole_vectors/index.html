@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wormhole Vectors</title>
+    <link rel="stylesheet" href="/src/styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="canvas"></canvas>
+      <div id="labels-root"></div>
+
+      <header class="overlay-header">
+        <h1 class="title">Wormhole Vectors</h1>
+        <p class="subtitle">
+          Query in <strong>sparse space</strong> → match documents → generate
+          <strong>entangled vector</strong> in <strong>dense space</strong> →
+          find entagled entry point to <strong>graph representation</strong>.
+        </p>
+      </header>
+
+      <aside class="info-panel" aria-label="Mean pooling info">
+        <h2 class="info-title">Mean Pooling</h2>
+        <p class="info-body">
+          Generating wormhole vectors from &ldquo;entangled&rdquo; documents&hellip;
+        </p>
+      </aside>
+
+      <footer class="controls">
+        <button type="button" id="btn-restart" class="btn">Restart Demo</button>
+        <button type="button" id="btn-pause" class="btn">Pause / Resume</button>
+      </footer>
+
+      <div class="credit-note">
+        Inspired by<br />
+        Trey Grainger - Wormhole Vectors
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
