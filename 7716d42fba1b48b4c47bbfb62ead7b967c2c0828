@@ -1,0 +1,49 @@
+wormhole_vectors/index.html
+  20b6306a6aba0d58 1-37
+wormhole_vectors/src/animation.ts
+  20b6306a6aba0d58 1-75
+wormhole_vectors/src/scene.ts
+  20b6306a6aba0d58 1-82
+wormhole_vectors/vite.config.ts
+  20b6306a6aba0d58 1-10
+wormhole_vectors/src/VectorSpace.ts
+  20b6306a6aba0d58 1-127
+wormhole_vectors/src/styles.css
+  20b6306a6aba0d58 1-162
+wormhole_vectors/tsconfig.json
+  20b6306a6aba0d58 1-18
+wormhole_vectors/src/config.ts
+  20b6306a6aba0d58 1-194
+wormhole_vectors/package.json
+  20b6306a6aba0d58 1-19
+wormhole_vectors/README.md
+  20b6306a6aba0d58 1-25
+wormhole_vectors/src/main.ts
+  20b6306a6aba0d58 1-32
+README.md
+  20b6306a6aba0d58 7-10
+wormhole_vectors/src/GraphSpace.ts
+  20b6306a6aba0d58 1-87
+wormhole_vectors/src/wormhole.ts
+  20b6306a6aba0d58 1-276
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "7716d42fba1b48b4c47bbfb62ead7b967c2c0828",
+  "prompts": {
+    "20b6306a6aba0d58": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "42813ece-e407-436d-852e-748d0db65f07",
+        "model": "default"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 439,
+      "total_deletions": 196,
+      "accepted_lines": 1152,
+      "overriden_lines": 0
+    }
+  }
+}
