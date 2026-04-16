@@ -1,0 +1,25 @@
+wormhole_vectors/src/styles.css
+  20b6306a6aba0d58 105-118
+wormhole_vectors/index.html
+  20b6306a6aba0d58 34-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "a2a55c9a41e4abb6f250b09df68432993b741ca7",
+  "prompts": {
+    "20b6306a6aba0d58": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "42813ece-e407-436d-852e-748d0db65f07",
+        "model": "default"
+      },
+      "human_author": "Jakub Žovák",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 1,
+      "accepted_lines": 23,
+      "overriden_lines": 1
+    }
+  }
+}
