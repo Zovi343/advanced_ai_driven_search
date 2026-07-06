@@ -9,7 +9,8 @@ readme = "README.md"
 requires-python = ">=3.11,<3.14"
 dependencies = [
     "datasets>=4.4.1",
-    "fastembed>=0.7.1",
+    "fastembed>=0.7.2",
+    "gensim>=4.3.3",
     "ipywidgets>=8.1.7",
     "numpy>=2.3.2",
     "qdrant-client>=1.16.0",
