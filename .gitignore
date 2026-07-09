@@ -1,5 +1,7 @@
 # Custom
 data/*
+.fastembed_cache/*
+notebooks/.fastembed_cache/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
